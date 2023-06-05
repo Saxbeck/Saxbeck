@@ -1,7 +1,7 @@
 ### Hi there 👋
 Feel free to have a look around, it's not much but it's honest work.
 
-- 🌱 I’m currently looking into web broadcasting
+- 🌱 I’m currently looking into web broadcasting, WebRTC, HLS, Icecast📻
 
 <!--
 **Saxbeck/Saxbeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
